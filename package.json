@@ -1,0 +1,16 @@
+{
+  "author": "cenkalti",
+  "bugs": {
+    "url": "https://github.com/cenkalti/backoff/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/cenkalti/backoff"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "MIT",
+  "name": "backoff",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.1.0"
+}
+
